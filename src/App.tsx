@@ -45,8 +45,6 @@ function App() {
     return <p>No match</p>;
   };
 
-  console.log(state.context);
-
   return (
     <div className="App">
       <ToastContainer theme="dark" />
