@@ -1,0 +1,16 @@
+@import url('@picocss/pico');
+
+@import url('react-toastify/dist/ReactToastify.css');
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  --typography-spacing-vertical: 0.5rem;
+}
+button {
+  width: auto;
+  border-radius: 20px;
+}
